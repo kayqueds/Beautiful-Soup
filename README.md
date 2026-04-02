@@ -12,8 +12,8 @@ pip install requests
 pip install beautifulsoup4
 
 # Como usar:
-git clone https://github.com/kayqueds/Beautiful-Soup.git
-cd Beautiful-Soup
+``git clone https://github.com/kayqueds/Beautiful-Soup.git
+cd Beautiful-Soup``
 
 # Site utilizado:
 https://www.tecmundo.com.br/voxel/500885-ps2-relembre-25-otimos-jogos-para-celebrar-os-25-anos-do-playstation-2.htm
